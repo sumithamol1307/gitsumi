@@ -1,3 +1,5 @@
 # gitsumi
 iam a student
-im from idukki
+iam from idukki
+iam very smart
+iam am good in studies
